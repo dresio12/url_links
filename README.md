@@ -1,4 +1,4 @@
-# url_links
+# Follow the links below to access different projects I have completed
 
 # Statcast style pitch maps
 https://derkrez.shinyapps.io/pitch_visualizer/
