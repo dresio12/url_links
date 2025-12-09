@@ -1,5 +1,5 @@
 # Follow the links below to access different projects I have completed.
-# An additional file of a project outline for improving pitch command modeling is located above.
+# My resume and an additional file of a project outline for improving pitch command modeling are located above.
 
 # Statcast style pitch maps
 https://derkrez.shinyapps.io/pitch_visualizer/
